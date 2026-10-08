@@ -1,4 +1,4 @@
-# BA T12 â€” HR Attrition Analysis Dashboard
+# BA T12 HR Attrition Analysis Dashboard
 
 ## Objective
 Analyze the assigned HR Analytics dataset in **Tableau Public** to identify patterns in employee attrition and support data-informed employee-retention decisions. The analysis compares attrition across employee demographics, departments, business travel, and educational backgrounds.
@@ -74,6 +74,6 @@ Employee attrition is unevenly distributed across the workforce. The dataset hig
 - Observational comparisons do not identify the causes of employee departures.
 
 ---
-**Assignment:** Business Analytics â€” Task 12 (BA T12)  
+**Assignment:** Business Analytics Task 12 (BA T12)  
 **Platform:** Tableau Public  
 **Dashboard:** [HR Attrition Analysis Dashboard](https://public.tableau.com/views/HRATTRITIONANALYSISDASHBOARD_17914401644670/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
